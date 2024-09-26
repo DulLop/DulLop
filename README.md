@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DulLop
 - 👀 I’m interested in tattoos, video games and universe 
-- 🌱 I’m currently learning POO, maching learning and cibersegurity
+- 🌱 I’m currently learning Python lenguage, POO and maching learning
 - 💞️ I’m looking to collaborate on backend developer or Python developer
 - 📫 You can find me by email dulceloperena@gmail.com or whatsapp 5553209726 
 
